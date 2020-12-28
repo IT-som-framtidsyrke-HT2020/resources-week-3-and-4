@@ -24,3 +24,6 @@ https://www.w3schools.com/react/react_props.asp
 
 ### React state
 https://www.w3schools.com/react/react_state.asp
+
+### React events
+https://www.w3schools.com/react/react_events.asp
